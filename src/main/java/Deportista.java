@@ -5,7 +5,9 @@ public abstract class Deportista extends Persona {
    private int Edad;
    private double Peso;
    private double Altura;
-   
+   public Deportista (){
+       setTelefono ("7782828292")
+   }
    public Deportista(){
        
    }
