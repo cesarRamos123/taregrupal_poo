@@ -6,7 +6,7 @@
 
 /**
  *
- * @author Javier Ramos
+ * @author Edith Quintanilla
  */
 public class Doctor  extends Persona {
    
