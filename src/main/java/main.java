@@ -17,7 +17,9 @@ public class main {
         // TODO code application logic here
        // Persona Persona =new Persona () {};
         Doctor Doctor =new Doctor ();
+        Deportista Deportista = new Deportista
         Doctor.Salida();
+        Deportiste.imprimir();
  
     }
     
