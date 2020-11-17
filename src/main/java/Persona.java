@@ -48,11 +48,11 @@ public abstract class Persona {
      return  this.correo;
    }
    public void Salida (){
-       System.out.println ("nombre :"+nombre);
-       System.out.println ("apellido :"+apellido);
-       System.out.println("identidad :"+identidad);
-       System.out.println("telefono :"+telefono);
-       System.out.println("correo :"+correo);
+       System.out.println ("nombre :marlon");
+       System.out.println ("apellido :blanco");
+       System.out.println("identidad :09329090101");
+       System.out.println("telefono :88191929");
+       System.out.println("correo :akj@yahoo.com");
    }
 }
 
