@@ -50,7 +50,12 @@ public abstract class Deportista extends Persona {
     }
     
     
-    
+    public void imprimir (){
+       System.out.println ("edad :19");
+       System.out.println ("peso:100");
+       System.out.println("area de deporte :futbol");
+      
+   }
     
     
 }
