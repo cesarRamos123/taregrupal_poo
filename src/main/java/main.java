@@ -16,8 +16,10 @@ public class main {
     public static void main(String[] args) {
         // TODO code application logic here
         Persona Persona =new Persona () {};
+        Deportista Deportista =new Deportista () {};
         
         Persona.Salida();
+        Deportista.imprimir();
     }
     
 }
