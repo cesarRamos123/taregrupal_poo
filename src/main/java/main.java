@@ -15,9 +15,10 @@ public class main {
      */
     public static void main(String[] args) {
         // TODO code application logic here
-        Persona Persona =new Persona () {};
-        
-        Persona.Salida();
+       // Persona Persona =new Persona () {};
+        Doctor Doctor =new Doctor ();
+        Doctor.Salida();
+ 
     }
     
 }
